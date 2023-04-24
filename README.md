@@ -8,8 +8,8 @@
 
 #### Réalisations
 
-- Co-construction de l'architecture avec nottament des thématiques d'IoT, de faible
-consommation de données (connexion satellite), de synchronisation apareils <-> server <->
+- Co-construction de l'architecture avec notamment des thématiques d'IoT, de faible
+consommation de données (connexion satellite), de synchronisation appareils <-> server <->
 client et de visualisation en temps réel.
 
 - Mise en place des pratiques DevOps au sein de l'entreprise :
@@ -20,15 +20,15 @@ client et de visualisation en temps réel.
   - gestion des secrets
   - formation des développeurs aux fonctionnalités de gitlab: pipeline, registry,
     release, environement...
-  - exploration de solution de CI/CD pour tester des logiciel embarqués en condition
+  - exploration de solution de CI/CD pour tester des logiciels embarqués en condition
     quasi-réel.
 
-- Amélioration de l'observabilité de nos application avec:
-  - le dévelopement d'une solution de centralisation des log pour des apareils IoT
+- Amélioration de l'observabilité de nos applications avec:
+  - le développement d'une solution de centralisation des log pour des appareils IoT
   - de l'ajout du tracing et des metrics à l'aide d'OpenTelemtry dans nos applications
   Web.
 
-- Introduction dans nos pratiques de la methode 4C pour documenter et visualiser
+- Introduction dans nos pratiques de la méthode 4C pour documenter et visualiser
 l'architecture logicielle.
 
 - Exploration des solutions cloud public afin d'améliorer la sécurité, la flexibilité
