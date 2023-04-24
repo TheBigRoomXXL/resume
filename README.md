@@ -1,6 +1,4 @@
-# Sébastien LOVERGNE
-
-## Développeur Full Stack & Devops
+# Sébastien LOVERGNE - Développeur Full Stack & Devops
 
 ## Parcours Professionnel
 
