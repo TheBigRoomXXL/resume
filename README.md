@@ -2,52 +2,47 @@
 
 ## Développeur Full Stack & Devops
 
-## Parcour Professionnelle
+## Parcours Professionnel
 
 ### Développeur Web Full Stack
-
 *RFConception*  
 *2022 - aujourd'hui*  
 
 #### Réalisations
 
-- Co-construction de l'architecture avec notament des thematiques d'IoT, de faible
-consomation de donnée (connection satellite), de syncronisation matériel <-> server <->
-client et de visualisation en temps reel.
+- Co-construction de l'architecture avec nottament des thématiques d'IoT, de faible
+consommation de données (connexion satellite), de synchronisation apareils <-> server <->
+client et de visualisation en temps réel.
 
 - Mise en place des pratiques DevOps au sein de l'entreprise :
-  - créations des premiers pipelines CI/CD avec l'automatisation des builds, test,
-  release et deploiment.
-  - développementdes pratiques de test: TDD, Fuzzing et validation de contrat avec
+- créations des premiers pipelines CI/CD avec l'automatisation des builds, test,
+    release et déploiement.
+  - développement des pratiques de test: TDD, Fuzzing et validation de contrat avec
     schemathesis, test migration de db
   - gestion des secrets
-  - formation des développeurs aux fonctionalités de gitlab: pipeline, registry,
-    release, enviornement...
-  - exploration de solution de CI/CD pour tester des logiciel embarqué en condition
+  - formation des développeurs aux fonctionnalités de gitlab: pipeline, registry,
+    release, environement...
+  - exploration de solution de CI/CD pour tester des logiciel embarqués en condition
     quasi-réel.
 
-- Amélilioration de l'observabilité de nos application avec:
-  - le dévelopement d'une solution de centralisation des log pour les matériel IoT
-  - de l'ajout du tracing et des metrics à l'aide d'OpenTelemtry dans nos application
+- Amélioration de l'observabilité de nos application avec:
+  - le dévelopement d'une solution de centralisation des log pour des apareils IoT
+  - de l'ajout du tracing et des metrics à l'aide d'OpenTelemtry dans nos applications
   Web.
 
 - Introduction dans nos pratiques de la methode 4C pour documenter et visualiser
-l'architecture logiciel.
+l'architecture logicielle.
 
 - Exploration des solutions cloud public afin d'améliorer la sécurité, la flexibilité
-et les fonctionalités de nos produits
+et les fonctionnalités de nos produits
 
 #### Environnement technique
 
-**Stack** : Flask-Smorest, Vue3, Postgres
-
-**Testing back** : Pytest, Schemathesis
-
-**Testing front** : Vitest (experimental)
-
-**Tooling** : Vscode
-
-**Devops** : Docker, Gitlab-CI, OpenTelememry, Jaeger, Prometheus, GCP
+- Stack: Flask-Smorest, Vue3, Postgres
+- Testing back: Pytest, Schemathesis
+- Testing front: Vitest (experimental)
+- Tooling: Vscode
+- Devops: Docker, Gitlab-CI, OpenTelememry, Jaeger, Prometheus, GCP
 
 
 ### Analyste Data
@@ -85,6 +80,7 @@ stockage de nouvelles données et le calcul de nouveau indicateurs statistique.
 
 ## Projet Personnel
 
+ -- TODO --
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
