@@ -65,7 +65,7 @@ autres directions de développer leurs applications.
 
 ### Développeur Web
 
-*Sanfran Landing Systems Mexique*  
+*Safran Landing Systems Mexique*  
 *2017 - 2 mois*  
 *Stage*  
 
