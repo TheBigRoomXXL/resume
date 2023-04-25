@@ -29,7 +29,7 @@ client et de visualisation en temps réel
 - création des premiers pipelines CI/CD avec l'automatisation des builds, test,
     release et déploiement
   - développement des pratiques de test: TDD, Fuzzing et validation de contrat avec
-    Schemathesis, test migration de BdD
+    [Schemathesis](https://github.com/schemathesis/schemathesis), test migration de BdD
   - secrets management
   - formation des développeurs aux fonctionnalités de gitlab: pipeline, registry,
     release, environnement...
@@ -41,7 +41,7 @@ client et de visualisation en temps réel
   - l'ajout du tracing et des metrics à l'aide d'OpenTelemetry dans les applications
   Web.
 
-- Introduction dans les pratiques de la méthode 4C pour documenter et visualiser
+  - Introduction dans les pratiques du [modèle 4C](https://c4model.com/) pour documenter et visualiser
 l'architecture logicielle
 
 - Exploration des solutions cloud public afin d'améliorer la sécurité, la flexibilité
