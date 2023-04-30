@@ -1,7 +1,3 @@
----
-permalink /fr/
----
-
 # Sébastien LOVERGNE
 **Développeur Full Stack & DevOps**
 
