@@ -119,5 +119,6 @@ at the University of Strasbourg
 
 ## Foreign Languages
 
-**Anglais:** Fluent. TOIED score of 945/995
-**Espagnol:** Intermediate level.
+**English:** Fluent. TOEIC score of 945/995  
+**French:** Native speaker  
+**Spanish:** Intermediate level  
