@@ -1,5 +1,5 @@
 # Sébastien LOVERGNE
-**Développeur Full Stack & Devops**
+**Développeur Full Stack & DevOps**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -25,6 +25,8 @@
 consommation de données (connexion satellite), de synchronisation appareils <-> server <->
 client et de visualisation en temps réel
 
+- Maintenance des systems existants et creation de deux nouvelles applications.
+
 - Mise en place des pratiques DevOps au sein de l'entreprise :
 - création des premiers pipelines CI/CD avec l'automatisation des builds, test,
     release et déploiement
@@ -41,11 +43,11 @@ client et de visualisation en temps réel
   - l'ajout du tracing et des metrics à l'aide d'OpenTelemetry dans les applications
   Web.
 
-  - Introduction dans les pratiques du [modèle 4C](https://c4model.com/) pour documenter et visualiser
+  - Introduction dans les pratiques du [modèle C4](https://c4model.com/) pour documenter et visualiser
 l'architecture logicielle
 
-- Exploration des solutions cloud public afin d'améliorer la sécurité, la flexibilité
-et les fonctionnalités des produits
+- Experimentation avec les solutions cloud public afin d'améliorer la sécurité, la flexibilité
+et les fonctionnalités des produits.
 
 ### Analyste Data
 
@@ -55,6 +57,7 @@ et les fonctionnalités des produits
 
 #### Réalisations
 
+- Analyse du besoin et recueille des feedbacks de nos utilisateur.
 - Développement de nouveaux outils informatiques de management visuel pour suivre les
 indicateurs clés et automatiser le reporting
 - Développement d’un flux de données centralisant tous les indicateurs clés de la
@@ -82,41 +85,38 @@ stockage de nouvelles données et le calcul de nouveaux indicateurs statistiques
 
 ## Projet Personnel
 
-### Instrumentation OpenTelemetry automatique pour Marshamllow, WebArgs et Flask-Smorest
+### OpenTelemetry instrumentation for Marshamllow
 
-Un repos contenant les expérimentations de ce projet est disponible ici:
-[https://github.com/TheBigRoomXXL/opentelemetry-tracing-experiment](https://github.com/TheBigRoomXXL/opentelemetry-tracing-experiment)
+A repos containing some experiment related to this project is available here:  
+[https://github.com/TheBigRoomXXL/opentelemetry-tracing-experiment](https://github.com/TheBigRoomXXL/opentelemetry-tracing-experiment)  
 
-Marshamllow, WebArgs, et Flask-Smorest sont 3 librairies qui s'integrent ensemble pour
-créer un excellent système de déserialisation, validation et sérialisation en python.
+[Marshamllow](https://marshmallow.readthedocs.io/en/stable/) is one python most popular
+library when it come to deserialisation, validation and serialization. As such it is an
+important part of the workflow in many web framework.
 
-Ces 3 étapes sont essentielles pour assurer la robustesse d'une application et c'est
-donc aussi important d'avoir la possibilité d'[observer](https://docs.honeycomb.io/concepts/learning-about-observability/)
-leur fonctionnement en production.
-
-Ce projet vise donc à créer 3 librairies permettant d'ajouter du tracing automatiquement
-et progressement à Marshamllow, WebArgs, et Flask-Smorest. Si ce projet aboutit alors
-il sera publier dans les [contributions Python d'OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python-contrib).
+This project aim at providing observability for those workflow with OpenTelmetry tracing
+(no metric planned for now). If this project is successfull it will be publish to the
+[OpenTelemetry Python Contribution](https://github.com/open-telemetry/opentelemetry-python-contrib)
 
 
 ## Parcours associatif
 
-**2021-2023:** Membre du conseil de gestion de l'[ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
-**2021:** Organisateur d’ateliers débat ["Big Review"](https://wiki.theshifters.org/index.php?title=Big_Review) chez les Shifters  
-**2020:** Trésorier de la [Robert Schuman Argentorata](http://www.rsa-strasbourg.eu/)  
-**2019 – 2021:** Formateur à l’[AFGES](https://afges.org/)  
-**2016 – 2019:** Membre du Conseil d’Administration de l’[AFGES](https://afges.org/)  
-**2017 – 2019:** Membre du Conseil d’Administration de l'[AFNEUS](https://afneus.org/)  
-**2018 – 2019:** Président de l’[ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
-**2017 – 2018:** Secrétaire Général de l’[ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
+**2021-2023:** Member of the supervisory board at[ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
+**2021:** Organizer of debate workshops ["Big Review"](https://wiki.theshifters.org/index.php?title=Big_Review) chez les Shifters  
+**2020:** Treasurer of the [Robert Schuman Argentorata](http://www.rsa-strasbourg.eu/)  
+**2019 – 2021:** Trainer at [AFGES](https://afges.org/)  
+**2016 – 2019:** Member fo the Board of Directors at [AFGES](https://afges.org/)  
+**2017 – 2019:** Member fo the Board of Directors at [AFNEUS](https://afneus.org/)  
+**2018 – 2019:** President at [ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
+**2017 – 2018:** Secretary General at [ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
 
 ## Formation
-**2019 - 2022:** Master Génie Industriel ([GIPI](https://physique-ingenierie.unistra.fr/formations/masters/genie-industriel/production-industrielle-gipi)) 
-à l'Université de Strasbourg  
-**2016 - 2019:** Licence Ingénierie parcours Génie Industirel à l'Université de Strasbourg  
+**2019 - 2022:** Industrial Engineering Master ([GIPI](https://physique-ingenierie.unistra.fr/formations/masters/genie-industriel/production-industrielle-gipi)) 
+at the l'University of Strasbourg  
+**2016 - 2019:** Bachelor's degree in Industrial Engineering at the University of Strasbourg
 
 
 ## Langues étrangères
 
-**Anglais:** Parlé couramment. Score au TOIED de 945/995  
-**Espagnol:** Niveau intermédiaire. 
+**Anglais:** Fluent. TOIED score of 945/995
+**Espagnol:** Intermediate level.
