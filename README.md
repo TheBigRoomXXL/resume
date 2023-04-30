@@ -31,10 +31,10 @@ visualize the software's architecture
 
 - Establishing DevOps practices in the company culture:
   - Setting up the first CI/CD pipelines with automated build, test, release and deployment
-  - Improve the testing practices: TDD, Fuzzing & contract validation with
+  - Improving the test practices: TDD, Fuzzing & contract validation with
   [Schemathesis](https://github.com/schemathesis/schemathesis), database migration validation
-  - Train other developer on DevOps practice and benefit
-  - Explore CI/CD solutions to test embedded software in real conditions
+  - Training other developer on DevOps practice and benefit
+  - Exploring CI/CD solutions to test embedded software in real conditions
 
 - Improving Observability of the systems with 
   - A new solution to centralize the devices logs
