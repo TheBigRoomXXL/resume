@@ -111,7 +111,7 @@ This project aim at providing observability for those workflow with OpenTelemetr
 **2018 – 2019:** President at [ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
 **2017 – 2018:** Secretary General at [ARIANE](https://physique-ingenierie.unistra.fr/scolarite-vie-etudiante/amicale-des-etudiants-ariane)  
 
-## Training
+## Education
 **2019 - 2022:** Industrial Engineering Master ([GIPI](https://physique-ingenierie.unistra.fr/formations/masters/genie-industriel/production-industrielle-gipi)) 
 at the University of Strasbourg  
 **2016 - 2019:** Bachelor's degree in Industrial Engineering at the University of Strasbourg
