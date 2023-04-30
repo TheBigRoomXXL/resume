@@ -1,14 +1,14 @@
 # Sébastien LOVERGNE
 **Développeur Full Stack & DevOps**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-mediumseagreen?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-grey?logo=flask&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-mediumseagreen?logo=vuedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-steelblue?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-limegreen?logo=mongodb&logoColor=white)
-![Gitlab-CI](https://img.shields.io/badge/Gitlab--CI-orange?logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)
+![Gitlab-CI](https://img.shields.io/badge/Gitlab--CI-orange?logo=gitlab&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-darkslateblue?logo=opentelemetry&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-darkturquoise?logo=jaeger&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-dodgerblue?logo=googlecloud&logoColor=white)
