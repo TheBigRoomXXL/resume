@@ -37,7 +37,7 @@ visualize the software's architecture
   - Exploring CI/CD solutions to test embedded software in real conditions
 
 - Improving Observability of the systems with 
-  - A new solution to centralize the devices logs
+  - A new solution to centralize the IoT devices logs
   - Addition of tracing and metrics with the help of OpenTelemetry instrumentation
 
 - Experimenting with public cloud solution to replace the existing infrastructure in
