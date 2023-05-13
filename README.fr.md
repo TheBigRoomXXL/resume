@@ -7,6 +7,7 @@ permalink: /fr/
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-grey?logo=sql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-grey?logo=flask&logoColor=white)
 ![VueJS](https://img.shields.io/badge/VueJS-mediumseagreen?logo=vuedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-steelblue?logo=postgresql&logoColor=white)
